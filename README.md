@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is the discription of this Project.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+1. Learn!
+2. Learn and Learn!
 
 ## Getting started
 
